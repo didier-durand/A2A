@@ -53,7 +53,7 @@ The Agent2Agent project is governed by the Technical Steering Committee. The Com
 6. **Responsibilities:** The TSC will be responsible for all aspects of oversight relating to the Project, which may include:
     1. coordinating the technical direction of the Project;
     2. approving project or system proposals (including, but not limited to, incubation, deprecation, and changes to a subproject's scope);
-    3. organizing subprojects and removing sub-projects;
+    3. organizing subprojects and removing subprojects;
     4. creating subcommittees or working groups to focus on cross-project technical issues and requirements;
     5. appointing representatives to work with other open source or open standards communities;
     6. establishing community norms, workflows, issuing releases, and security issue reporting policies;

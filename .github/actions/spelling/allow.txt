@@ -78,6 +78,7 @@ Lix
 MSIs
 MWpm
 Mapr
+Mvosg
 Nszl
 OIDC
 OOa
@@ -153,6 +154,7 @@ backstory
 backticks
 bbb
 beeai
+boq
 bufbuild
 bzr
 cae
@@ -166,6 +168,7 @@ coc
 codegen
 codeowner
 codespace
+codewiki
 crewai
 datamodel
 datapart
@@ -237,6 +240,7 @@ kadirpekel
 konami
 kty
 langgraph
+lerhaupt
 linenums
 linkedin
 linting

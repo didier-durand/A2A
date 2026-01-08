@@ -79,9 +79,6 @@
 # Should be `perform its`
 \bperform it's\b
 
-# Should be `opt-in`
-(?<!\sfor)\sopt in\s
-
 # Should be `less than`
 \bless then\b
 
